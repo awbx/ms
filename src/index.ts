@@ -93,10 +93,10 @@ export const en: LocaleDefinition = {
   },
 };
 
-export { fr } from './locales/fr';
 export { ar } from './locales/ar';
 export { de } from './locales/de';
 export { es } from './locales/es';
+export { fr } from './locales/fr';
 export { zh } from './locales/zh';
 
 /**
